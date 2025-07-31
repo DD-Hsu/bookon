@@ -38,7 +38,7 @@ Welcome to ** Book on ** — 我的私人閱讀筆記與書籍知識庫。
 
 ## 🌐 聯絡與社群
 
-📬 [Email] - vvv123ss@gmail.com
+📬 vvv123ss@gmail.com
 
 🔗 [Treads](https://www.threads.com/@estherkyo8?igshid=NTc4MTIwNjQ2YQ==)  
 
