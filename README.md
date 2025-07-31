@@ -8,7 +8,7 @@ Welcome to ** Book on ** — 我的私人閱讀筆記與書籍知識庫。
 
 ## 🚪 Wiki 導覽入口
 
-📖 [點我進入書籍分類與筆記 Wiki](https://github.com/DD-Hsu/bookon.wiki.git)
+📖 [點我進入書籍分類與筆記 Wiki](https://github.com/DD-Hsu/bookon/wiki/book-on)
 
 ---
 
@@ -38,7 +38,7 @@ Welcome to ** Book on ** — 我的私人閱讀筆記與書籍知識庫。
 
 ## 🌐 聯絡與社群
 
-📬 [Email](vvv123ss@gmail.com)  
+📬 [Email] - vvv123ss@gmail.com
 🔗 [Treads](https://www.threads.com/@estherkyo8?igshid=NTc4MTIwNjQ2YQ==)  
 📷 [Instagram](https://instagram.com/estherkyo8)  
 
