@@ -8,7 +8,7 @@ Welcome to ** 金頁小記 ** — 我的私人閱讀筆記與書籍知識庫。
 
 ## 🚪 Wiki 導覽入口
 
-📖 [點我進入書籍分類與筆記 Wiki](https://github.com/DD-Hsu/bookon/wiki/bookon)
+📖 [點我進入書籍分類與筆記 Wiki](https://github.com/DD-Hsu/bookon.wiki.git)
 
 ---
 
